@@ -49,7 +49,7 @@ level: high
 ```
 
 ```yaml
-itle: Suspicious Microsoft OneNote Child Process
+title: Suspicious Microsoft OneNote Child Process
 id: c27515df-97a9-4162-8a60-dc0eeb51b775
 related:
     - id: 438025f9-5856-4663-83f7-52f878a70a50 # Generic rule for suspicious office application child processes
