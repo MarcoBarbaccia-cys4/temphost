@@ -1,4 +1,4 @@
-```
+```yml
 title: Suspicious File Executed By Screensaver File​
 id: fcee2d25-7dc1-4fc8-ba35-c41ab2b8c0f6​
 status: experimental​
